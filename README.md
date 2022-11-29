@@ -13,7 +13,6 @@
     5.  \>60º Muy Difícil. Negro.
 ---
 
-![ültimo Mapa](Anexos/Captura%20Tronador%20(Pequeño).JPG)
 # The New!!
 1. Indication of unevenness on the path.
 2. Walking times calculated according to the distances + the elevation gain (only the ascent) x 10, all calculated at 3 km/h. It is only a method of approximation of the walking time that tries in some way to weight the effort of the climb.
