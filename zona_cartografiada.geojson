@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "zona_cartografiada",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "zona", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -69.778557193303016, -32.665980132202172, 0.0 ], [ -69.319464197385429, -32.668708799619552, 0.0 ], [ -69.319029183813598, -32.442815454183801, 0.0 ], [ -69.776621772209822, -32.444728658426648, 0.0 ], [ -69.778557193303016, -32.665980132202172, 0.0 ] ] ] } }
-]
-}
